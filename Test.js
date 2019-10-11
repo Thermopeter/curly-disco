@@ -1,3 +1,4 @@
+import React from "react"
 function myInfo(){
   return(
     <div>
