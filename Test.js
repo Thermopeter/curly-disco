@@ -1,5 +1,5 @@
 import React from "react"
-function myInfo(){
+function MyInfo(){
   return(
     <div>
       <h1>MyInfo</h1>
